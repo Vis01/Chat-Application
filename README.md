@@ -14,6 +14,19 @@ Some Features:
 -   ⭐ At the end Deployment like a pro for FREE!
 -   ⏳ And much more!
 
+
+*Login Page*
+
+![image](https://github.com/Vis01/Chat-Application/assets/95044948/5092d602-1dee-4630-b141-9f042edeb512)
+
+*Main Page*
+![image](https://github.com/Vis01/Chat-Application/assets/95044948/bb68edc8-43da-4831-ac16-fae611b0dab9)
+
+*User Profile*
+
+![image](https://github.com/Vis01/Chat-Application/assets/95044948/c10b369d-97b9-41a1-a551-b2ca3ac4d2c7)
+
+
 ### Setup .env file
 
 ```js
